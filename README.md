@@ -9,5 +9,6 @@
 #### meow
 ##### meow
 ***
-#HW1
-https://github.com/x000315/LAT/blob/main/HW1.ipynb
+#HW1  https://github.com/x000315/LAT/blob/main/HW1.ipynb
+***
+#HW2  https://github.com/x000315/LAT/blob/main/HW2.ipynb
