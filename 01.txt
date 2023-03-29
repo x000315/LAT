@@ -1,0 +1,597 @@
+Journal of Curriculum Studies
+ISSN: 0022-0272 (Print) 1366-5839 (Online) Journal homepage: https://www.tandfonline.com/loi/tcus20
+What is Teaching?
+
+Paul H. Hirst
+To cite this article: Paul H. Hirst (1971) What is Teaching?, Journal of Curriculum Studies, 3:1,
+5-18, DOI: 10.1080/0022027710030102
+To link to this article: https://doi.org/10.1080/0022027710030102
+Published online: 09 Jul 2006.
+
+Submit your article to this journal
+Article views: 2441
+View related articles
+Citing articles: 6 View citing articles
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=tcus20
+
+What is Teaching?
+Paul H. Hirst
+Professor of Education
+King's College
+University of London
+The question with which this paper is concerned is simply "What is
+teaching?". How do we distinguish teaching from other activities? This
+is, I think, a very important question for at least four reasons. First, a lot
+of new educational methods are now widely canvassed in which the significance of teaching is far from clear. Repeatedly one finds an almost exclusive emphasis on certain activities of the pupils, say those of enquiry,
+discovery and play, not on the activities of the teacher. In the discussion
+of such methods it seems to me there is much misunderstanding of what
+teaching is and therefore of what it involves, and this not infrequently
+leads to a very distorted view of the whole educational situation. Secondly,
+people are now aware of a range of activities, some of them thought to be
+morally undesirable, whose relation to teaching is by no means clear:
+activities like indoctrinating, preaching, advertising and propagandizing.
+There are many terms that are as it were in the same logical band as
+"teaching", and we are I think rightly getting more sensitive as to whether
+or not the activities these terms label ought to go on in school. If we can
+get clearer about the nature of teaching it will surely help us to see the
+character of these other processes and their inter-connections. Similar
+problems are raised by the use of teaching machines and other devices,
+not to mention sleep-teaching.
+Thirdly, we are clearly in need of a great deal of carefully controlled
+empirical research on the effectiveness of different teaching methods. But
+without the clearest concept of what teaching is, it is impossible to find
+appropriate behavioural criteria whereby to assess what goes on in the
+classroom. Most teaching methods new and old are advocated or defended
+on little more than hunch or personal prejudice. What we need to know
+are some relevant empirical facts, but these we cannot find if we are uncertain how to identify cases of teaching anyway. And finally, being clear
+about what teaching is, matters vitally because how teachers understand
+teaching very much affects what they actually do in the classroom. If it
+is the case that our activities depend on how we ourselves see them, what
+we believe about them, then if we have crazy, fuzzy ideas about teaching,
+we will be likely to do crazy and fuzzy things in its name. One of the most
+JOURNAL OF CURRICULUM STUDIES
+J
+I am here using terminology
+which is in part the same as
+that used by B. Paul Komisar:
+"Teaching: Act and Enterprise", in C. J. B. Macmillan
+and T. W. Nelson (eds.):
+Concepts of Teaching (Rand
+McNally, 1968). In spite of
+certain similarities in both
+terminology and approach
+however, our accounts are
+clearly in radical disagreement over the precise relationship between teaching
+and learning, and the necessary characteristics of at
+least certain of his "teaching
+acts."
+important things for a teacher is surely to be dear about the nature of the
+central activity in which he is professionally involved. And if that is true
+for teachers in general, it is certainly true for the teachers of teachers in
+particular.
+The question then is how do we characterize the activity of teaching
+so as to distinguish it from all other activities? How, for instance, on
+entering a classroom can one tell whether the teacher is in fact teaching?
+What exactly has to be going on? To begin to answer the problem here
+we must surely distinguish two obviously different senses in which we
+talk about teaching. In the first sense we talk about teaching as an enterprise in which a person may be engaged for a long period, say all afternoon.
+In this sense, a teacher spends the afternoon not in shopping, sunbathing
+or taking the dog for a walk, but in fact in teaching. The term teaching is
+here functioning at a very general level, labelling a whole enterprise which
+may be broken down into many much more specific activities. And if
+indeed we look at these more detailed elements of the enterprise, it is
+perfectly plain that many of them are not activities we would in a more
+restricted sense of the term wish to call "teaching" at all. Opening the
+window to let in more air, sharpening a few pencils, preventing a squabble
+between two pupils, all these may be legitimate parts of the enterprise of
+teaching as a whole. But we do surely use the term teaching in a much
+more specific sense whereby we can say that these activities are not the
+activities of teaching. In this second sense then we can speak of specific
+teaching activities which do not include in their number the sharpening
+of pencils, the opening of windows, and all other such activities which
+might form a legitimate part of the teaching enterprise as a whole. In
+the rest of this paper I am not concerned with the enterprise use of the
+term and would add only one point about it. Clearly for an enterprise to
+be that of teaching at all it is necessary that it must contain certain specific
+teaching activities. If a teacher spent the whole afternoon opening windows, sharpening pencils, cleaning her glasses and so on, she would do no
+teaching in any sense at all. It is necessary therefore to the teaching
+enterprise that it include specific teaching activities and all other specific
+activities are part of that enterprise only because of their relation to these.1
+But how are specific teaching activities to be distinguished from all other
+specific activities? Why exactly is opening a window or sharpening a pencil
+not teaching? Manifestly teaching is no one specific activity readily
+identifiable in general circumstances like say walking or running or riding
+a bicycle. There are an enormous number of specific activities which may
+in fact be teaching. One might be describing a historical situation and this
+WHAT IS TEACHING?
+could be called teaching. One might on the other hand be saying nothing
+at all, but be drawing on a blackboard, or doing a chemical experiment in
+front of the pupils. All these would seem to be teaching activities in a
+specific sense, so that there is no one immediately recognizable activity
+which the term teaching picks out. Is there then a limited number of
+specific activities which constitute teaching, so that to be teaching at all
+one would have to be carrying out one of these? A teacher would then have
+to know how to question, how to prove things, how to demonstrate etc.
+If this were what teaching involved, it would greatly simplify the business
+of teacher training and indeed it seems to me that there is a large grain
+of truth in this idea. Such an approach is however too simple-minded, if
+only because many, if not all, of the specific activities which occur within
+teaching, also occur when one is certainly not teaching. One can tell a
+story to a child who knows it backwards but who just simply enjoys hearing
+it over once more. One might demonstrate something to entertain a nightclub audience. In proving something, one may be actually discovering
+the proof, not teaching someone else. One may be translating something,
+without teaching anything to anybody. None of these activities implies
+that teaching is taking place at all. It therefore seems to be the case that
+we cannot hope to get clear what teaching is simply by producing an
+exhaustive list of activities of this kind.
+Nevertheless, teaching is what is technically known as a polymorphous
+activity: it quite literally takes many different forms. Its parallels are
+thus activities like work and gardening and explicit comparisons with
+these might help in the process of clarification. What does a person have
+to be doing to be working? Driving a truck, working a lathe, solving
+mathematical problems, drawing beer, all these activities constitute
+somebody's work. Indeed any activity would seem to be in principle a
+possible form of work. On the other hand, gardening is much more
+limited in what it embraces. Digging, mowing the lawn, pruning, are
+activities of gardening, but one cannot be doing anything as one might in
+the case of work. What then about teaching? Is it in this respect more like
+work or like gardening? Looked at one way teaching can take so many
+different forms that, like work, there seems pretty well no limit to the
+activities it can involve. Standing on one's head could in fact be part of
+teaching something, so could driving, working a lathe, solving a problem.
+Provided one looks at the whole range of things that can be taught, it would
+seem that any activity might occur as a teaching activity. Which activities
+might be involved in any particular instance will depend on exactly
+what is being taught. Yet it might be insisted that though teaching, to say,
+JOURNAL OF CURRICULUM STUDIES
+drive, might involve driving, when teaching one must in fact do more than
+merely drive. One must, say, demonstrate driving. This would seem to
+imply that though any activity might be subsumed under the notion of
+teaching, for that to be the case it must be carried out in some special way.
+And this in turn suggests that all the legion activities that can figure in
+teaching, to figure in that way, must be seen as occurring within a framework of the kind of specific activities mentioned earlier, such as demonstrating, proving, telling, etc. This view is I think correct and the analogy
+between teaching and other polymorphous activities would seem to be most
+helpful at the level of say gardening rather than at the level of say work.
+Yet the parallel with gardening is strictly limited. Activities like pruning
+and mowing the lawn are necessarily forms of gardening and that concept
+may be exhaustively analysable in such terms. Yet it was insisted above
+that demonstrating and proving are not necessarily forms of teaching and
+it is by no means obvious that, limited though the range of activities of
+teaching may be, there is an exhaustive list of distinct activities into which
+the concept of teaching could be even partially analysed. I conclude therefore that we cannot hope to characterize specific teaching activities simply
+in terms of the activities of proving, demonstrating, telling, etc. Rather,
+teaching must be characterized some other way which will make it clear
+to us when these activities are indeed involved in teaching and when
+involved in say entertaining. It will perhaps also make plain why these
+activities are peculiarly important in teaching.
+How then are we going to characterize specific teaching activities at
+all? I think the answer to this is that they can only be characterized in the
+way in which we fundamentally characterize allhumanactivities: by looking
+at their point or purpose. It is by clarifying the aim, the intention of what
+is going on, that we can see when standing on one's head to demonstrate
+something, or any other activity, is in fact teaching and not say simply
+entertaining. The difference here is in the different, over-riding intentions
+involved in each case. "What a particular activity is, what a person is doing,
+depends crucially on how he himself sees the activity. To take a standard
+example, if a person is seen to place a glass of liquid to his lips and slowly
+drain it, what is he doing? He may be quenching his thirst, committing
+suicide, or engaging in a religious ritual. Which of these if any it is,
+depends on the point, purpose or intention that lies behind the physical
+movements. Clearly the physical state of affairs can be described without
+knowing the person's intention. It can be seen that the glass is moved by a
+certain force so many inches towards his lips, and so on. But an account
+of what is observed does not tell us what the activity is. Perhaps in a
+WHAT IS TEACHING?
+particular context we may be able to infer very readily the most likely
+point of the movements and thus what activity is involved; nevertheless
+it is only by reference to the intention that we can describe the activity,
+and of course there is no guarantee that our external judgment of the intention, based upon our observation, is in fact correct.
+Yet if a "sufficient" characterization of an activity can only be given in
+terms of its intention and not in terms of its observable features, that is
+not to say that certain observable features are not necessary to many particular activities. Clearly not all observable events could be described as
+quenching one's thirst or celebrating Mass. Unless liquid of some sort is.
+being consumed, a person cannot be quenching his thirst and on empirical
+evidence alone we can dismiss such a description of many of his activities.
+From observation we can rule out many possibilities of what a person is
+doing even if we cannot from observation say which of the remaining
+possibilities he is engaged in. The points here are fundamentally quite
+simple. First, any activity is characterized by its intention, but many
+intentions cannot, logically cannot, be ascribed unless certain observable
+conditions hold. Secondly, for a given set of observable conditions a number of quite different intentions may be ascribable. Thirdly, in so far as
+there are necessary observable conditions for a particular activity, they
+are necessary conditions for there being the intention concerned in this
+case. They are not conditions of a logically independent character.
+What we want to know then about teaching is first, what is the intention
+by which its activities are picked out from all others and secondly what
+necessary observable features are there by which we can judge that some
+activities could not possibly be teaching, whereas others might well be,
+though we can never be certain from such external characterization alone.
+A crude answer to the first of these questions is I think simple. The
+intention of all teaching activities is that of bringing about learning. But
+simple and banal though this answer might seem, it is I suggest an extremely important answer. It involves the claim that the concept of
+teaching is in fact totally unintelligible without a grasp of the concept of
+learning. It asserts that there is no such thing as teaching without the
+intention to bring about learning and that therefore one cannot characterize teaching independently of characterizing learning. Until therefore we
+know what learning is, it is impossible for us to know what teaching is.
+The one concept is totally dependent on the other. Because of the tightest
+conceptual connection then, the characterization and raison d'etre of
+teaching rests on that of learning. If therefore a teacher spends the whole
+afternoon in activities the concern of which is not that the pupils should
+10 JOURNAL OF CURRICULUM STUDIES
+•The common-place distinction I am here making leaves
+un-noted a complexity which
+any full task/achievement analysis of teaching cannot
+disregard. If teaching is
+directed towards another activity, that of the pupil's
+learning, then the task and
+achievement uses of "teaching" need to be carefully
+related to possible task and
+achievement uses of "learning." We are inclined to
+assume that both uses of
+"teaching" are directed to
+the achievement use of
+"learning." It is however
+far from obvious that this
+is always the case. Just this
+problem arises again with
+activities like demonstrating
+and proving as Dr. Komisar
+shows very plainly (see Note
+i). I am, however, unhappy
+about his account of these
+activities, though I am far
+from certain that I have
+always understood him.
+learn, but say the inflation of his own ego, then in fact he cannot have
+been teaching at all. In these terms it could be the case that quite a large
+number of professional teachers are in fact frauds most of their lives,
+because their intentions are never clear. Perhaps quite a lot of our work
+is misdirected because this necessary intention is lost in a welter of secondary intentions, by neglect, if not deliberately. Of course pupils may learn
+many things when a teacher is not in fact teaching. That is another matter.
+What would seem to be particularly important here is that in taking a
+job as a professional teacher one is presumably being paid to carry out this
+intention whatever else one is paid to do. If one is not going into the
+classroom to bring about learning, if that is not the intention, then one
+cannot, logically cannot, be teaching. This is not to say that one may not
+be doing many other things which are of value. There are many ways of
+occupying children's time, some of them profitable, but that does not make
+them teaching. I wish to maintain therefore that the notion of teaching is
+totally dependent for its characterization on the concept of learning and
+that this has important practical consequences for how teachers see thenjob and therefore for what they do in the classroom.
+Before going further, two particular points need commenting on.
+First, there are two ways in which we talk about teaching activities in the
+classroom context. The most common relates to the case in which a person
+may teach in the fullest sense of that word and yet, in spite of the intention
+and the appropriateness of the activities involved, the pupils may learn
+absolutely nothing. Here the notion of teaching is simply that of trying
+to get people to learn and no more. But there is another use of the word,
+which involves the implication that not only has there been the intention
+to bring about learning, but that the pupil has in fact learnt what was
+intended. To say that Mr. Brown taught me to ride a bicycle, usually
+means not merely that Mr. Brown tried to get me to learn to ride a bicycle,
+but that I have in fact succeeded in learning this. There is thus not only a
+"task" sense to the verb to teach, where trying or intending alone is
+implied; there is also a "success" or "achievement" sense, where in addition to the intention, there is the implication that learning has in fact
+occurred. For the rest of this paper I shall be concerned with teaching in
+the "task" sense only, and in this sense it is not the case that teaching
+necessarily implies learning. What teaching implies is merely the intention
+to bring about learning.2
+Secondly, if teaching activities are intentional, what are we to say about
+all the learning that goes on in a classroom, or anywhere else, which is not
+intended by the teacher? Is there not such a thing as unintentional teaching
+"WHAT IS
+after all? Certainly, we do sometimes talk in this way, when a particular
+situation has been the occasion for significant learning. What is important
+here is surely the recognition that no teacher intended the learning, though
+significant things might have been picked up in the context. It will be
+suggested later that it is because of certain important features in the context that make the situation similar to that in which there is the intention
+to bring about learning, that we use the term teaching here, though in a
+somewhat different sense. In schools we are not primarily concerned with
+unintended learning. What we are concerned with is the task of bringing
+about learning because we believe there is much that we can do towards
+making learning more than a random business. Of course, taking the
+education of children as a whole, what they pick up in the context of our
+unintentional teaching may indeed be important. Still this does not alter
+the fact that in schools we are centrally concerned with intentional teaching
+and that as soon as we turn our attention to what has been unintentional
+teaching, we thereby necessarily change its character.
+The characterization of teaching given thus far, makes the concept entirely parasitic on that of learning. That being so, it would seem important
+in clarifying the notion further to look at what is meant by "learning".
+Even if teaching is not the label of one specific activity, is learning? The
+answer I think must again be clearly no. One may learn things by trial
+and error, by discovery or observation, by being told and by many other
+means. But if there are many different activities of learning, what makes
+them cases of learning? I suggest the answer is again found, as in the case
+of teaching, by looking at the intention of the activities concerned. If the
+intention of teaching involves a concern for learning, what in turn is the
+intention of learning? Fortunately the answer seems not to be another
+type of activity whose intention would in turn have to be clarified. The
+end or aim of learning is, I suggest, always some specific achievement or
+end state. There are many such end achievements: believing something
+which one did not believe before, knowing something one did not know
+before, being able to do something one could not do before, having a
+habit one had not got before and so on. As a result of learning one may know
+a scientific theory, know how to ride a bicycle, know how to calculate
+a square root, know that Henry VIII had six wives, appreciate the
+symphonies of Beethoven or keep one's engagements punctually. The
+achievements or end states with which learning is concerned are of enormous variety and not surprisingly therefore the activities of learning are
+equally varied. Learning like teaching is a polymorphous activity. If
+then learning is the activity of a person, say B, the intention of which is
+1 2 JOURNAL OF CURRICULUM STUDIES
+the attainment of some particular end, we can say that B necessarily learns
+something, say X, where X may be a belief, a skill, an attitude or some
+other complex object that characterizes this end.
+For the purpose of this paper there is no need to pursue the nature of
+learning further, though two particular points must be stressed. First,
+it is I think important to note that the end achievements of learning are
+new states of the person and that these differ radically from each other. We
+seem to be under a perpetual temptation to think that all learning results
+in knowledge. Clearly this is false. Along with this too goes the temptation
+to think that what we learn, X, is necessarily a truth or fact of some kind.
+Clearly this is also false. To thoroughly disabuse oneself of these myths is a
+first step towards getting rid of many common but quite fallacious ideas
+about the nature of learning and, as a consequence, about the nature of
+teaching.
+Secondly it must be noted that I have assumed learning to be an activity
+on the part of the learner. But just as we have a use of teaching to cover
+cases when there is in fact no intention to bring about learning, so we have
+uses of learning where the pupil does not in fact intend to achieve the
+appropriate end which he nevertheless attains. In this sense we can speak
+of non-intentional learning, where as the result of a causal process as in
+hypnotism, conditioning, sleep-teaching or even the unconscious acquisition of something, the intention of the learner is not involved. It is important to recognize here that the term learning is being used for a quite
+different process, in this case causal and not intentional. Nothing is to be
+gained by trying to legislate one meaning for the term, cutting across
+general usage which now covers both these processes. Yet the distinction
+between them needs to be kept clear. Whether or not causal processes are
+educationally desirable is a matter with which I am not here concerned.
+Putting together what has been said about learning with what was
+earlier said about teaching, we have the following account of teaching.
+A teaching activity is the activity of a person, A (the teacher), the intention
+of which is to bring about an activity (learning), by a person, B (the pupil),
+the intention of which is to achieve some end-state (e.g. knowing, appreciating) whose object is X (e.g. a belief, attitude, skill). From this it
+follows that to understand what is involved in teaching, one must start at
+the other end of a logical chain of relations, with an understanding of the
+end achievements to which everything is being directed. From this one
+can proceed to understand what is involved in B's achieving such ends,
+in learning X, and then proceed to an understanding of what is involved
+in A teaching B, X. This logical dependence of teaching on learning, and
+WHAT IS TEACHING? 13
+learning on the nature of the achievements to which it is directed is thus
+once more no mere academic matter. If teachers are not clear what end
+achievements their teaching is concerned with, they cannot know what is
+involved in B's learning X. And until they know what is involved in B's
+learning X, they cannot know what is involved in A's teaching B, X. Any
+notion of learning which is not the learning of some particular X, is as
+vague as the notion of going somewhere but nowhere in particular. Equally
+some particular person B is necessarily learning this X. Following the
+logical chain, it is therefore only in a context where both what is to be
+learnt and who is learning it are clear, that we can begin to be clear about
+teaching B, X. Just as a pupil B cannot simply learn, but must necessarily
+be learning X, so A cannot simply teach, he must be teaching B, and he
+must be teaching B, X. It is as much a logical absurdity to say "One
+teaches children not subjects" as it is to say "One teaches subjects not
+children". Both of these phrases might have their slogan use, but the
+serious discussion of teaching ought surely to reject such slogans in the
+name of the simple logical truth, that one necessarily teaches somebody
+something. Not that of course one is necessarily teaching a "subject" in
+the traditional sense, but there must always be an end achievement which
+somebody is learning. A great deal of discussion of modern educational
+methods seems in danger of going seriously astray because of a refusal to
+accept the full implications of this simple logically necessary truth.
+I have so far argued that in its central use, teaching is the label for those
+activities of a person A, the intention of which is to bring about in another
+person B, the intentional learning of X. In addition, there would seem to
+be uses of the term when the intention on the part of A is missing, but the
+intentional learning on the part of B remains, and also uses when the intention on the part of A is present, but the intention on the part of B is
+replaced by a causal process. But even in the central case, the intention
+on the part of A to bring about the learning of X by B might be thought to
+leave the characterization of teaching activities too open. On this account,
+might not the strangest events count as teaching a pupil say to count,
+provided this was the intention of the teacher? This would indeed be the
+case if there were no necessary conditions which an activity must satisfy
+before it could possibly be described as a teaching activity. Just as not all
+activities could be gardening surely not all activities could be teaching?
+What then are the necessary features of a publically observable kind which
+all teaching activities must possess? There are I suggest at least two. As
+it is necessarily the case that A teaches B, X, there is one necessary demand
+on the aaivities in relation to the particular X that is being taught, and
+14 JOURNAL OF CURRICULUM STUDIES
+there is a second necessary demand in relation to the particular person B
+concerned.
+The first of these demands is far from easy to express. But I suggest
+that in so far as one is necessarily teaching X, the specific teaching activity
+involved must be what I will call "indicative" of X. By this I mean that
+the activity must, either implicitly or explicitly, express or embody the X
+to be learnt, so that this X is clearly indicated to the pupil as what he is to
+learn. In this way the teacher makes plain in his activity what he intends
+to be learnt. It is not I think at all the case that what is to be learnt must
+necessarily be explicitly discernable in the activity, yet it must be so
+available in some sense that the pupil's learning activity can be directed
+to this as its object. It is because activities like demonstrating, telling and
+proving can provide such excellent means for indicating an X that it is
+intended the pupil will learn, that they play such a central part in teaching.
+Yet just because these activities are such effective means for expressedly
+indicating a given X, they can be significant not only in teaching but in
+such other concerns as entertaining. It is only when such activities are
+used in a learning context, to indicate what is to be learnt that they can
+become teaching activities. The fact that specific teaching activities must
+indicatively express what is to be learnt, also helps to make clear why at
+times we speak of teaching in an unintentional sense. We do this, I
+suggest, when certain features of a situation can be legitimately interpreted as indicatively expressing something to be learnt, though this in
+fact may not be anyone's actual intention. The situation is thus interpreted as a teaching situation by the learner, when in fact, from an intentional point of view, it is no such thing. First, then specific teaching
+activities must be indicative of what is to be learnt and it is for this reason
+that the opening of windows and the sharpening of pencils could never be
+themselves the teaching of historical facts or of Pythagoras's Theorem.
+In the second place, as a specific teaching activity is necessarily concerned
+with the teaching of X to a particular pupil B, it must be indicatively
+expressed so that it is possible for this particular pupil B to learn X. One
+might teach an undergraduate class in philosophy Wittgenstein's criticism
+of the idea of a private language, by reading to the students sections from
+the Philosophical Investigations. But to carry out such an activity with a
+class of average six-year-olds would, I suggest, not constitute teaching at
+all. Indicative though the activity might be, as the six-year-olds could
+understand practically nothing that v/as being said, this could surely not
+constitute teaching them Wittgenstein's views on private languages. There
+is a gap between the knowledge, skills or state of mind of the learner and
+WHAT IS TEACHING.-1
+ 15
+what it is he is to learn, which it seems to me any teaching activity must
+seek to bridge if it is to deserve that label. Teaching activities must therefore take place at a level where the pupil can take on what it is intended he
+should learn. It must be possible, and this seems to me a logical point,
+for learning to take place. This logical demand is for the teacher to have
+psychological and other knowledge about the learner, and it clearly means
+that many specific things cannot possibly be taught to a given pupil given
+his present state of knowledge, skill etc. I conclude therefore that a specific
+teaching activity must necessarily indicatively express the X to be learnt
+by B and be so related to the present state of B that he can learn X.
+It might be objected to my second necessary demand for teaching activities, that to misjudge the present state of the pupils does not disqualify
+a person's activities from properly being described as teaching. Surely he
+has taught X whether the pupils have learnt X or not. Certainly teaching
+does not necessarily imply learning, but it does necessarily imply the
+intention of bringing about learning by someone, and if from one's activities it is impossible for that someone to learn what is intended, it does seem
+very odd to describe such activities as teaching. One reason why we are
+inclined to think that there could be teaching even when the present state
+of the pupils is grossly misjudged, is I think that we spend so much of
+our time teaching classes not individuals and the condition I am insisting
+on seems to make almost impossible demands. Must it not be the case
+that in any class with a wide ability range, what is presented is in fact
+inappropriate for some of the pupils? If we are to stick to the individualistic
+model I have used, must we not say that in even the "task" sense, only some
+of the class have been taught X, and not others? Strictly I think the answer
+to that must be yes. But perhaps it would be better simply to recognize that
+we do use the word teaching both for activities aimed at group learning as
+well as individual learning. In the case of a group, what a teacher does if he
+is teaching them all the same X is to work with an appropriate norm for
+the attainments of that group. What constitutes an appropriate norm
+cannot I think be generally stated; nevertheless it seems to me that without
+working to such a norm there could be no activities that could properly
+be described as teaching the group. It might of course be argued, and with
+some justice, that properly understood, teaching a group necessarily
+involves attention to the individual differences of the pupils.
+As a final comment on the two criteria which I have suggested are
+necessary to any teaching activity, it is I think instructive to note that in
+these terms opposing virtues and defects have tended to characterize both
+traditional formal teaching methods and more contemporary progressive
+JOURNAL OF CURRICULUM STUDIES
+alternatives. Traditional teaching methods have above all concerned
+themselves with the indicative features of these activities, often meeting
+the present learning state of the pupils in an over-generalized and inadequate way. In reaction, more progressive methods have tended to cater
+extremely well for the present learning state of individual pupils, but at
+the expense of the necessary indicative features that teaching activities
+must embody. It is not that either group of methods is of itself necessarily
+deficient as teaching activities, and each might well have its place according
+to what exactly is being taught and to whom. What is important is that
+we come to realize that in all teaching activities both these necessary
+features need the fullest responsible consideration.
+In concluding this paper I would like to return to the problem of
+clarifying the nature of such activities as indoctrinating, conditioning,
+preaching, training, instructing and so on, as the characterization of
+teaching that I have outlined can I think help in this process. As here
+considered teaching activities form a very broad category indeed, one
+which is in no sense restricted to those activities we think it appropriate
+for schools to undertake. I have been concerned with teaching and learning
+in general, whatever the ends concerned, be they bad habits, perversions,
+concepts, facts, physical skills, etc. In so far then as indoctrination and other
+activities involve the intention to bring about learning of some kind, they
+involve teaching and in so far as they are themselves processes for bringing
+about learning of certain kinds they are themselves forms of teaching.
+From all that has been said about teaching, different categories of teaching
+activity can clearly be distinguished in a number of distinct ways. The
+object or objects to be learnt can be of one particular kind rather than
+another. The activity of learning may be of a specific sort, or the activity
+of the teacher might be restricted in some particular way. Clearly there
+are likely to be labels for certain types of teaching which become important
+for specific purposes and it is, I suggest, by looking at the particular subclass of teaching activities involved that we are most likely to distinguish
+indoctrination, instruction, and so on.
+Indoctrination, for example, would certainly seem to be picked out, at
+least in part, by the distinctive end state of mind of the learner, to which
+the teaching is directed. An indoctrinated person would seem to hold
+.J- ,?•. White, "Indoc- certain beliefs unshakably.3
+ In this case what the person is intended to
+(O?°The concept 0/ I&IS- learn, the X, is distinctive here, though in exactly what way it is important
+p°"i (R(£
+1
+^
+edsc an d
+ Kegan to note. On this criterion, it is nothing about the beliefs themselves that
+'
+I 9
+ distinguishes indoctrination, but some higher order beliefs about their
+status, or some attitude to them. But however this characterization is
+WHAT IS TEACHING? 17
+given, it is expressible in terms of certain distinctive objects for learning.
+Some have suggested that there is in fact something distinctive about the
+beliefs themselves in that one can only indoctrinate in matters of opinion
+or doctrines. Again this is to distinguish the teaching activities of indoctrination in terms of what is being taught. It can also be argued that indoctrination is restricted to certain learning processes, or that unintentional indoctrination is a contradiction. My point here is not to decide
+exactly what is meant by indoctrination or any other of these terms, but
+rather to indicate how a clarification of them might be helpfully approached.
+What is however plain from the work that has already been done on
+the concept of indoctrination, is that most terms in this area are likely to be
+in some respects unclear, being used in a number of inter-related ways.
+What matters then is not what any "correct" use might be, but rather
+the conceptual distinctions that arise in this area. If, for instance, the
+notion of "believing unshakably" is seen as a distinctive result of some forms
+of teaching, and we for our purposes call these forms indoctrination, then
+indoctrination is being sharply distinguished from teaching leading to
+the holding of beliefs rationally, which many regard as a necessary part
+of education. Once we know the possible meanings of these very tricky
+terms we know our way around their relationships much better. We are
+clearer too about the significance of many of the things we do when engaged in teaching.
+The distinctive features of such processes as conditioning and sleepteaching would seem to be that they involve causal and not intentional
+learning or if it is intentional, it is intentional in some very particular sense.
+Whether or not these processes ought to figure within indoctrination or
+education, will of course depend on one's account of these latter processes.
+Training and instructing on the other hand would seem to be concepts
+connected unmistakably with intentional learning, the difference between
+them being determined by the particular group of end achievements with
+which each is concerned.
+And finally, what of teaching machines: can such machines be properly
+said to teach? In terms of the analysis I have here given the idea that a
+piece of hardware can of itself teach is nonsense, for it itself can have no
+intentions and cannot engage in activities. But taken in the proper context
+I see no reason why a machine, properly programmed, should not be the
+instrument of a teaching activity. It is indeed the machine programmed
+so that it indicatively expresses what is to be learnt, in such a way that the
+pupil can in fact learn, because it meets his current state of mind, that
+must be thought of as the teaching agent. The appropriate programming
+J.CS. B
+18 JOURNAL OF CURRICULUiM STUDIES
+of the machine is of course an essential part of the teaching activity as a
+whole. What the invention of books, let alone teaching machines, made
+possible, was a separation in time between the teacher's expression of what
+is to be learnt and the pupil's encounter with this. Nothing new in
+principle is introduced into the idea of a teaching activity. What is however
+available here to the pupil is a programme of indicatively expressive activities drawn up after expert consideration of the problems involved in
+pupils' learning that might be much better for the task than the live activities of the teacher available. As the teaching activities that involve the
+use of such machines must be completely predetermined, it is of course
+important that the details of the programme be constructed with the utmost care and that it be appropriate to the learning state of the pupils.
+It is of course only when these conditions are fulfilled that in using the
+machine these pupils could be said to be being taught.
+Throughout this paper I have been concerned with mapping the features
+that distinguish teaching activities from all others. It has not been my
+concern to lay down the criteria for good teaching or even successful
+teaching. Successful teaching would seem to be simply teaching which
+does in fact bring about the desired learning. Good teaching is however
+much more difficult to discern. I am not even sure that successful learning
+is a criterion for good teaching. Certainly in a given particular case there
+is no contradiction in saying that a person was successfully yet badly
+taught. Yet in so far as this account of teaching is correct, it has at least
+indicated which activities we are concerned to study in a critical comparison
+of teaching activities. What is more it must have at least some important
+implications for the methods whereby such comparisons must be made.
+But what these are, will not be gone into here, if only because such elaboration would be rather premature when the criteria for what teaching is
+are not yet agreed. It is towards establishing what these criteria are that
+this paper has been primarily directed.
+The major philosophical papers which discuss the nature of teaching can be found
+in three collections of articles:
+C B. J. Macmillan and T. W. Nelson, (eds.), Concepts of Teaching (Rand McNally,
+1968).
+R. S. Peters, (ed.)3 The Concept of Education, (Routledge and Kegan Paul, 1967).
+B. P. Komisar and C. B. J. Macmillan, (eds.), Psychological Concepts in Education
+(Rand McNally, 1967).
+There are also important chapters in:
+I. Scheffler, The Language of Education (Thomas, Illinois, i960).
+G. Langford, Philosophy and Education (Macmillan, 1968).
+
+
