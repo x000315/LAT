@@ -15,4 +15,4 @@
 ***
 #HW3  https://github.com/x000315/LAT/blob/main/HW3.ipynb
 ***
-#HW4  https://github.com/x000315/LAT/blob/main/111111.PNG https://github.com/x000315/LAT/blob/main/index.js
+#HW4  ![image](https://github.com/x000315/LAT/blob/main/111111.PNG) https://github.com/x000315/LAT/blob/main/index.js
